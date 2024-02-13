@@ -1,0 +1,19 @@
+.price{
+    background:linear-gradient(150deg,rgb(135, 135, 245),rgb(234, 115, 234));
+    
+}
+.price p{
+    color: white;
+    
+}
+
+.price:hover{
+    background: rgb(20, 20, 150);
+    color: white;
+}
+
+.btc{
+    font-size: 2rem;
+    font-weight: 600;
+   
+}
